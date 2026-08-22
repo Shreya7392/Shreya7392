@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./developer-girl.png" width="400">
+</p>
 <div align="center">
 
 # 👋 Hi, I'm Shreya Ghosh
