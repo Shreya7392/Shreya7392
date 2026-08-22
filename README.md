@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# 👋 Hi, I'm Shreya Ghosh
+# <h2 align="center">👋 Hi, I'm Shreya Ghosh</h2>
 
 ### 🎓 Computer Science Student | 💻 Aspiring Software Engineer
 
