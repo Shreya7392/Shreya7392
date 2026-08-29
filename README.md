@@ -12,13 +12,13 @@
 </div>
 
 ---
-
-## 🌱 Shreya in Progress
-
+<p align="center">
+🌱Shreya in Progress
+<p align="center">
 > 💭 **Curious by nature. Builder by choice. Always becoming.**
-
+<p align="center">
 Turning curiosity into action, challenges into lessons, and ideas into something real. ✨
-
+<p align="center">
 🌱 **Explore** → 💡 **Create** → 🧩 **Learn** → 🚀 **Grow**
 
 <br>
