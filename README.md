@@ -49,14 +49,16 @@ Turning curiosity into action, challenges into lessons, and ideas into something
 
 <td width="50%" valign="top">
 
+<p align="center">
 ### 💻 Strengthening My Foundations
-
+<p align="center">
 ☕ **Java**  
 Building strong programming fundamentals.
-
+<p align="center">
 🧩 **Data Structures & Algorithms**  
 Practicing problem solving and logical thinking.
-
+<p align="center">
+  
 🗄️ **SQL & DBMS**  
 Learning queries, databases and data management.
 
