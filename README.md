@@ -57,7 +57,7 @@ Building strong programming fundamentals.
 <p align="center">
 🧩 **Data Structures & Algorithms**  
 Practicing problem solving and logical thinking.
-<p align="center">
+
   
 🗄️ **SQL & DBMS**  
 Learning queries, databases and data management.
