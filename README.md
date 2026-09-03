@@ -12,8 +12,7 @@
 </div>
 
 ---
-<p align="center">
-🌱Shreya in Progress
+###🌱Shreya in Progress
 <p align="center">
 > 💭 **Curious by nature. Builder by choice. Always becoming.**
 <p align="center">
